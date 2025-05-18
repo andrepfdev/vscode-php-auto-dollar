@@ -40,12 +40,12 @@ Uma extensão do Visual Studio Code que adiciona automaticamente o símbolo `$` 
 
 **Before saving | Antes de salvar:**
 
-![before](https://github.com/user-attachments/assets/c4b50122-d136-42b4-87bf-9daa4ade277e)
+![before](https://github.com/user-attachments/assets/744f5929-282b-4f11-92c1-ccfa1d603c5a)
 
 
 **After saving | Depois de salvar:**
 
-![after](https://github.com/user-attachments/assets/2165e072-fe4d-4558-9cdd-383c31ba3ab9)
+![after](https://github.com/user-attachments/assets/2e02645a-33f8-466b-815c-031ddfcb5ffa)
 
 ---
 
