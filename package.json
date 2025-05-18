@@ -2,7 +2,7 @@
   "name": "php-auto-dollar",
   "displayName": "PHP Auto Dollar",
   "description": "Automatically adds $ symbol to PHP variables when saving files",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "icon": "icon.png",
   "publisher": "andrepfdev",
   "author": {
