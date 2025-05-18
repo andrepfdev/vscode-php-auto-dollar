@@ -7,23 +7,23 @@ Uma extensão do Visual Studio Code que adiciona automaticamente o símbolo `$` 
 
 ---
 
-## ✨ Features | Funcionalidades
+## Features | Funcionalidades
 
-- ✅ Automatically adds `$` to PHP variables on file save (`Ctrl + S`)  
+- Automatically adds `$` to PHP variables on file save (`Ctrl + S`)  
   Adiciona automaticamente `$` às variáveis ao salvar (`Ctrl + S`)
 
-- ✅ Detects assignments, function parameters, and common usage patterns  
+- Detects assignments, function parameters, and common usage patterns  
   Detecta atribuições, parâmetros de função e usos comuns
 
-- ✅ Ignores PHP keywords and reserved contexts  
+- Ignores PHP keywords and reserved contexts  
   Ignora palavras-chave e contextos reservados do PHP
 
-- ✅ Manual command: `PHP: Add Dollar Signs to Variables`  
+- Manual command: `PHP: Add Dollar Signs to Variables`  
   Comando manual: `PHP: Add Dollar Signs to Variables`
 
 ---
 
-## 💡 How It Works | Como Funciona
+## How It Works | Como Funciona
 
 1. Write PHP code without typing `$`  
    Escreva o código PHP sem digitar o `$`
@@ -36,7 +36,7 @@ Uma extensão do Visual Studio Code que adiciona automaticamente o símbolo `$` 
 
 ---
 
-## 🧪 Example | Exemplo
+## Example | Exemplo
 
 **Before saving | Antes de salvar:**
 
@@ -49,14 +49,14 @@ Uma extensão do Visual Studio Code que adiciona automaticamente o símbolo `$` 
 
 ---
 
-## ⚙️ Configuration | Configuração
+## Configuration | Configuração
 
 No configuration is required.  
 Nenhuma configuração necessária.
 
 ---
 
-## 🚀 Installation | Instalação
+## Installation | Instalação
 
 1. Open VS Code and go to Extensions (`Ctrl+Shift+X`)  
     Abra o VS Code e vá em Extensões (`Ctrl+Shift+X`)
@@ -69,7 +69,7 @@ Nenhuma configuração necessária.
 
 ---
 
-## 📝 Feedback & Issues | Feedback & Problemas
+## Feedback & Issues | Feedback & Problemas
 
 Found a bug or have a suggestion?  
 Encontrou um bug ou tem sugestão?
@@ -79,6 +79,6 @@ Encontrou um bug ou tem sugestão?
 
 ---
 
-## 📄 License | Licença
+## License | Licença
 
 [MIT License](LICENSE)
