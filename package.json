@@ -9,10 +9,10 @@
     "name": "André Pereira",
     "email": "andrepf_dev@hotmail.com"
   },
-  "homepage": "https://github.com/andrepfdev/php_auto_dollar",
+  "homepage": "https://github.com/andrepfdev/vscode-php-auto-dollar",
   "repository": {
     "type": "git",
-    "url": "https://github.com/andrepfdev/php_auto_dollar.git"
+    "url": "https://github.com/andrepfdev/vscode-php-auto-dollar.git"
   },
   "license": "MIT",
   "engines": {

@@ -73,8 +73,8 @@ Nenhuma configuração necessária.
 Found a bug or have a suggestion?  
 Encontrou um bug ou tem sugestão?
 
-- [Open an issue](https://github.com/andrepfdev/php_auto_dollar/issues)
-- [Contribute on GitHub](https://github.com/andrepfdev/php_auto_dollar)
+- [Open an issue](https://github.com/andrepfdev/vscode-php-auto-dollar/issues)
+- [Contribute on GitHub](https://github.com/andrepfdev/vscode-php-auto-dollar)
 
 ---
 
